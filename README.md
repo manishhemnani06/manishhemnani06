@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Hemnani</h1>
 <h3 align="center">Solution-driven Data Analyst with 6+ months of training experience in the field</h3>
-<img align ="right" alt="Analysis" width ="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif">
+<img align="right" alt="Analyst" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishhemnani06&label=Profile%20views&color=0e75b6&style=flat" alt="manishhemnani06" /> </p>
 
 - 🌱 I’m currently learning **Data Analyst📊 course at Masai School**

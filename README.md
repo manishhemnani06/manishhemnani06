@@ -1,6 +1,7 @@
+![logo](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Manish Hemnani</h1>
 <h3 align="center">Solution-driven Data Analyst with 6+ months of training experience in the field</h3>
-<img align="right" alt="Analyst" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishhemnani06&label=Profile%20views&color=0e75b6&style=flat" alt="manishhemnani06" /> </p>
 
 - 🌱 I’m currently learning **Data Analyst📊 course at Masai School**
@@ -26,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishhemnani06&show_icons=true&locale=en" alt="manishhemnani06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishhemnani06&" alt="manishhemnani06" /></p>
+

@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **SQL, Python🐍, Excel**
 
-- 📫 How to reach me **https://www.linkedin.com/in/manish-hemnani-280953179/**
+- 📫 How to reach me **manishhemnanice37@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ea--q1PV3l4M0MAa9Wh2n4Wif4XGrZVS/view?usp=share_link](https://drive.google.com/file/d/1ea--q1PV3l4M0MAa9Wh2n4Wif4XGrZVS/view?usp=share_link)
 

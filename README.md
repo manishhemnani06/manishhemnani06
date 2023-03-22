@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **SQL, Python🐍, Excel**
 
-- 📫 How to reach me **manishhemnanice37@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/manish-hemnani-280953179/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ea--q1PV3l4M0MAa9Wh2n4Wif4XGrZVS/view?usp=share_link](https://drive.google.com/file/d/1ea--q1PV3l4M0MAa9Wh2n4Wif4XGrZVS/view?usp=share_link)
 
@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-hemnani-280953179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-hemnani-280953179/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/manish_hemnani_/?next=%2f&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manish_hemnani_/?next=%2f&hl=en" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/manishhemnanice1?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/manishhemnanice1?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishhemnani06&show_icons=true&locale=en&layout=compact" alt="manishhemnani06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishhemnani06&show_icons=true&locale=en" alt="manishhemnani06" /></p>
-
-

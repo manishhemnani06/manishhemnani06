@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **manishhemnanice37@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1ea--q1PV3l4M0MAa9Wh2n4Wif4XGrZVS/view?usp=share_link](https://drive.google.com/file/d/1TA0hfmR7wuXt7ybRy7P3tNxTE9Y4ZMjJ/view?usp=share_link))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1ea--q1PV3l4M0MAa9Wh2n4Wif4XGrZVS/view?usp=share_link](https://drive.google.com/file/d/1TA0hfmR7wuXt7ybRy7P3tNxTE9Y4ZMjJ/view?usp=share_link))
 
 - ⚡ Fun fact: **I am a Residential Designer and Planner (Civil Engineer) but after exploring myself, realize that i Love to play with Data and get insights from it**
 

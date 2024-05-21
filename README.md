@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+
 <h1 align="center">Hi 👋, I'm Manish Hemnani</h1>
 <h3 align="center">Solution-driven Data Analyst with 6+ months of training experience in the field</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -10,15 +10,19 @@
 
 - 📫 How to reach me **manishhemnanice37@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1ea--q1PV3l4M0MAa9Wh2n4Wif4XGrZVS/view?usp=share_link](https://drive.google.com/file/d/1TA0hfmR7wuXt7ybRy7P3tNxTE9Y4ZMjJ/view?usp=share_link))
+- 📄 Know about my experiences -  [RESUME](https://drive.google.com/file/d/1CHA2L2uhB1NDcR-4wvJEwgB_IGQYevJC/view?usp=sharing)
 
-- ⚡ Fun fact: **I am a Residential Designer and Planner (Civil Engineer) but after exploring myself, realize that i Love to play with Data and get insights from it**
+- ⚡ Fun fact: **I am a Residential Designer and Planner (Civil Engineer) but after exploring myself, realized that i Love to play with Data and get insights from it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-hemnani-280953179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-hemnani-280953179/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manish-hemnani-280953179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-hemnani-280953179/" height="30" width="40" /></a>
+
 <a href="https://instagram.com/https://www.instagram.com/manish_hemnani_/?next=%2f&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manish_hemnani_/?next=%2f&hl=en" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/manishhemnanice1?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/manishhemnanice1?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin" height="30" width="40" /></a>
+
+<a href="https://codebasics.io/portfolio/Manish-Hemnani"><img src="https://i.ibb.co/njRTvdJ/website-1.png"  alt="website" border="0" height="40" width="40" />
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -4,7 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishhemnani06&label=Profile%20views&color=0e75b6&style=flat" alt="manishhemnani06" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst📊 course at Masai School**
+- Hey there! I'm thrilled to have you visit my GitHub profile. As a data enthusiast, I have a passion for extracting insights and building data-driven solutions. Whether it's analyzing complex datasets or designing robust data infrastructure, I love diving into the world of data.
+
+- With a strong background in data analysis, I excel at uncovering valuable insights and making data-driven decisions. I specialize in data manipulation, statistical analysis, and visualization, bringing clarity and actionable results to complex problems.
+
+- Feel free to explore my repositories to see my projects and contributions in the exciting realm of data. I'm always open to collaborations and eager to contribute to the data community. Don't hesitate to reach out if you have any questions or exciting opportunities. Let's unlock the power of data together!
 
 - 💬 Ask me about **SQL, Python🐍, Excel**
 
